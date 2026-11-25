@@ -6,7 +6,7 @@
 const CONFIG = {
   nomeProfissional: "Nilton Gomes da Silva",
   subtitulo: "Construção Civil & Acabamentos de Alto Padrão",
-  telefoneWhatsApp: "5519999999999", // ⚠️ Substitua pelo número real com DDD (ex: 55199XXXXXXXX)
+  telefoneWhatsApp: "5519999084140", // 
   cidadeAtendimento: "Rio Claro - SP",
   email: "niltinho78@yahoo.com",
   endereco: "Rua do Sobrado, n°135 - Regina Picelli, Rio Claro/SP, 13505-220",
